@@ -111,8 +111,9 @@ a:link {
 
 #contact-wall{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     margin-top: 40px;
+
 }
 
 #contact-main-container{

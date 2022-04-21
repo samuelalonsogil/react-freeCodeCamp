@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3600aec-cfe9-46f4-b567-2756ea693e3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/first-course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BusinessCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/ContactApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/mail-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstChallenge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstChallenge/Body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstChallenge/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstChallenge/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstChallenge/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirstComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SecondComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/default-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/facebook-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/github-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/instagram-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/react-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raw/twitter-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examen-react/src/components/FormAudio.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../examen-react/src/components/FormAudio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact/ben.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact/gojo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact/zoro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EjerciciosPorAngel/ejemplosSimpleReact" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosPorAngel/ejemplosSimpleReact" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pruebas_react_nodeJS/controller/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../pruebas_react_nodeJS/controller/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact/ContactApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/ContactApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,19 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Contact" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/asbar/IdeaProjects/react/react-freeCodeCamp/first-course/src/components/Contact",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asbar\IdeaProjects\react\react-freeCodeCamp\first-course\src\components\Contact" />
       <recent name="C:\Users\Samu\IdeaProjects\React\react-course-freeCodeCamp\first-course\src\components\Contact" />
       <recent name="C:\Users\Samu\IdeaProjects\React\react-course-freeCodeCamp\first-course\src\raw" />
     </key>
@@ -90,6 +77,7 @@
       <workItem from="1650352545236" duration="13126000" />
       <workItem from="1650447830386" duration="4634000" />
       <workItem from="1650461711134" duration="4323000" />
+      <workItem from="1650522500628" duration="3563000" />
     </task>
     <servers />
   </component>
