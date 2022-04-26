@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3600aec-cfe9-46f4-b567-2756ea693e3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/ben.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/gojo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/zoro.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EjerciciosPorAngel/ejemplosSimpleReact" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosPorAngel/ejemplosSimpleReact" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pruebas_react_nodeJS/controller/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../pruebas_react_nodeJS/controller/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact/ContactApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/ContactApp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/asbar/IdeaProjects/react/react-freeCodeCamp/first-course/src/components/Contact",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asbar/IdeaProjects/react/react-freeCodeCamp/first-course/src/components/Contact&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\asbar\IdeaProjects\react\react-freeCodeCamp\first-course\src\components\Contact" />
@@ -78,6 +71,7 @@
       <workItem from="1650447830386" duration="4634000" />
       <workItem from="1650461711134" duration="4323000" />
       <workItem from="1650522500628" duration="3563000" />
+      <workItem from="1650652051921" duration="517000" />
     </task>
     <servers />
   </component>
